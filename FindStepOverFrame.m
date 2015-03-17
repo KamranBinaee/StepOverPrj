@@ -1,4 +1,0 @@
-function FindStepOverFrame(ExpData)
-
-
-end
